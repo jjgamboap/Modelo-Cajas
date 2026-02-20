@@ -1,0 +1,29 @@
+html{
+    text-shadow: 1px  1px 0 orange;
+}
+
+.caja1 {
+    border-top: 5px dotted green;
+    border-bottom: 5px dotted red;
+    border-right: 5px dashed orange;
+    border-left: 5px dashed blue;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+}
+
+.caja2 {
+    border-top: 5px solid cyan;
+    border-bottom: 5px solid pink;
+    border-right: 10px solid black;
+    border-left: 10px solid black;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+}
+
+.caja3 {
+    border: 2px solid black;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}

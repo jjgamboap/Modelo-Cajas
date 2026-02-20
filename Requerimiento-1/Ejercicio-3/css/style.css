@@ -1,0 +1,18 @@
+.caja1 {
+    border: 5px solid red;
+    margin-bottom: 5px;
+    text-shadow: 1px  1px 0 orange;
+}
+
+.caja2 {
+    border: 5px solid blue;
+    padding: 25px;
+    margin-bottom: 5px;
+    text-shadow: 1px  1px 0 orange;
+}
+
+.caja3 {
+    border: 5px solid green;
+    padding: 50px;
+    text-shadow: 1px  1px 0 orange;
+}
